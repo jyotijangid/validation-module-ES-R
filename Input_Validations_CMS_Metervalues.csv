@@ -1,6 +1,6 @@
 Validation ID,Validation,Description,ocpp datapoint,mini_threshold,max_threshold,apply
-1,Current Spike,,Current.Import ,21,21,1
-2,Power Spike,,Power.Actve.Import,7000,7000,1
+1,Current Spike,,Current.Import ,15,25,1
+2,Power Spike,,Power.Actve.Import,4000,10000,1
 3,Current Energy is less than previous,,Energy.Active.Import.Register,,,1
 4,Current SoC is less than previous,,SoC,,,1
 5,Energy NA/Negative Value,,Energy.Active.Import.Register,,,1
