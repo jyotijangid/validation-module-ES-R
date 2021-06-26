@@ -9,8 +9,8 @@ The procedure provides market participants and their metering service providers 
 <br />
 The procedure includes:<br />
 1. recording and collecting revenue metering data;<br />
-2. validating, estimating, and editing revenue metering data;<br />
-3. processing meter trouble reports (MTRs) to investigate potential problems with revenue meters<br />
+2. validating, estimating, and editing revenue metering data (VEE Process);<br />
+3. processing meter trouble reports (MTRs) to investigate potential problems with revenue meters.<br />
 <br />
 
 This module creates a data bridge in R environment from Elastic Search.<br />
