@@ -25,6 +25,7 @@ Two data tables are formed-
 Both datasets are pushed in Validated & Erroneous Index respectively. The validated data can be used for analysis while erroneous data can help identify the issues with the present data collection system.
 
 Below are two protocols in the EV Industry which helps establish communication among different parties:
+1. OCPP (Open Charge Point Protocol) is the global open communication protocol between the charging station and the central system of the charging station operator.         
+2. OCPI (Open Charge Point Interface) is an open protocol between operators and service providers.
 
-OCPP (Open Charge Point Protocol) is the global open communication protocol between the charging station and the central system of the charging station operator.         
-OCPI (Open Charge Point Interface) is an open protocol between operators and service providers.
+![Data Flow](https://user-images.githubusercontent.com/71806907/123521809-a389e200-d6d6-11eb-9ed6-f07ccf625d99.png)
