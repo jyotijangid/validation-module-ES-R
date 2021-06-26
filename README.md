@@ -26,5 +26,5 @@ Both datasets are pushed in Validated & Erroneous Index respectively. The valida
 
 Below are two protocols in the EV Industry which helps establish communication among different parties:
 
-OCPP (Open Charge Point Protocol) is the global open communication protocol between the charging station and the central system of the charging station operator.
+OCPP (Open Charge Point Protocol) is the global open communication protocol between the charging station and the central system of the charging station operator.         
 OCPI (Open Charge Point Interface) is an open protocol between operators and service providers.
