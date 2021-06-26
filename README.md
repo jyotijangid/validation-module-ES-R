@@ -26,5 +26,6 @@ Below are two protocols in the EV Industry which helps establish communication a
 2. OCPI (Open Charge Point Interface) is an open protocol between operators and service providers.<br />
 <br/>
 <br/>
-![Data Flow](https://user-images.githubusercontent.com/71806907/123522011-029c2680-d6d8-11eb-9b7d-56c0b113005c.png)
+![Data Flow](https://user-images.githubusercontent.com/71806907/123522058-835b2280-d6d8-11eb-8dd0-1f479c44282f.png)
+
 
