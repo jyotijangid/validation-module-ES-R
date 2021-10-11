@@ -19,14 +19,14 @@ This module creates a **data bridge in R environment from Elastic Search.**
 The data is pulled (metered data) from an Index is then unnested, formatted, and validated against some tests (tests list given in excel) in R.  
 
 Two data tables are formed-  
-1. Validated data  
-2. Flagged/Erroneous data  
+1. _Validated data_  
+2. _Flagged/Erroneous data_    
   
 Both datasets are pushed in Validated & Erroneous Index respectively. The validated data can be used for analysis while erroneous data can help identify the issues with the present data collection system.  
   
 Below are two protocols in the EV Industry which helps establish communication among different parties:  
-1. OCPP (Open Charge Point Protocol) is the global open communication protocol between the charging station and the central system of the charging station operator.  
-2. OCPI (Open Charge Point Interface) is an open protocol between operators and service providers.  
+1. **OCPP (Open Charge Point Protocol)** is the global open communication protocol between the charging station and the central system of the charging station operator.  
+2. **OCPI (Open Charge Point Interface)** is an open protocol between operators and service providers.  
   
   
 ![Data Flow](https://user-images.githubusercontent.com/71806907/123522068-9cfc6a00-d6d8-11eb-92fc-924a18939b47.png)
