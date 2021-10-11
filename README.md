@@ -1,5 +1,5 @@
 # Validation Module-ES-R
-### This is one of the module I worked on in internship at a EV Startup.
+### This is one of the module I worked on in internship at an EV Startup.
 
 ## Brief introduction to the EV Industry
 EV Industry (Electrical Vehicle) deals with a lot of meter data. This meter data can be from home charging as well as public charging stations. This meter data has a lot of information regarding a charging session i.e. charging duration, energy consumed, voltage during session, power factor, no of times a particular EV charges in a day. All of this information is very important for CPOs (Charge Point Operators) (who maintains the public charging stations and Electrical Utilities (in case of home charging). The errors in metered data tell the shortcomings/faults with the meters and hence very useful to identify faulty meters.  
