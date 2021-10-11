@@ -12,11 +12,8 @@ The procedure provides market participants and their **metering service provider
 The procedure includes:  
 * recording and collecting revenue metering data;
 * validating, estimating, and editing revenue metering data (VEE Process);
-* processing meter trouble reports (MTRs) to investigate potential problems with revenue meters.  
+* processing meter trouble reports (MTRs) to investigate potential problems with revenue meters.    
   
-
-**VEE- Validation, Editing and Estimation is a process through with we try to get a good dataset using these three process so that the results on the dataset will be as close to correct.**  
-
 This module creates a **data bridge in R environment from Elastic Search.**  
 
 The data is pulled (metered data) from an Index is then unnested, formatted, and validated against some tests (tests list given in excel) in R.  
@@ -31,6 +28,11 @@ Below are two protocols in the EV Industry which helps establish communication a
 1. OCPP (Open Charge Point Protocol) is the global open communication protocol between the charging station and the central system of the charging station operator.  
 2. OCPI (Open Charge Point Interface) is an open protocol between operators and service providers.  
   
+  
 ![Data Flow](https://user-images.githubusercontent.com/71806907/123522068-9cfc6a00-d6d8-11eb-92fc-924a18939b47.png)
-
-
+  
+  
+Some jargons in EV Industry:  
+* MDM (Meter Data Management) or MDMS (Meter Data Management System) - are software programs that receive and store meter data, and support a host of revenue cycle and other functions (e.g., billing, outage management, and distribution engineering).  
+* MSPs are Meter service provider which are any entity that performs metering services on behalf of a distributor or generator.  
+* VEE- Validation, Editing and Estimation is a process through with we try to get a good dataset using these three process so that the results on the dataset will be as close to correct.
