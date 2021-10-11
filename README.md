@@ -33,6 +33,6 @@ Below are two protocols in the EV Industry which helps establish communication a
   
   
 Some jargons in EV Industry:  
-* MDM (Meter Data Management) or MDMS (Meter Data Management System) - are software programs that receive and store meter data, and support a host of revenue cycle and other functions (e.g., billing, outage management, and distribution engineering).  
-* MSPs are Meter service provider which are any entity that performs metering services on behalf of a distributor or generator.  
-* VEE- Validation, Editing and Estimation is a process through with we try to get a good dataset using these three process so that the results on the dataset will be as close to correct.
+* **MDM (Meter Data Management) or MDMS (Meter Data Management System)** - are software programs that receive and store meter data, and support a host of revenue cycle and other functions (e.g., billing, outage management, and distribution engineering).  
+* **MSPs are Meter service provider** which is any entity that performs metering services on behalf of a distributor or generator.  
+* **VEE- Validation, Editing and Estimation** is a process through with we try to get a good dataset using these three process so that the results on the dataset will be as close to correct.
